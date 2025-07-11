@@ -51,3 +51,6 @@ Browse photos by selecting different categories
 
 Click on thumbnails to view full-size images
 
+<img width="1920" height="1080" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/29882b39-85ef-484a-8851-e8520e4d5a1c" />
+<img width="1920" height="1080" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/42ea41f9-cb7d-4158-ac58-8d103446b9fc" />
+
